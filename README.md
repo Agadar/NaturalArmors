@@ -11,4 +11,6 @@ These new armor sets can be crafted and repaired just like the existing armor se
 
 ## Links
 
+[Minecraft forum thread](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2710872-natural-armors)
+
 [Project on CurseForge](http://mods.curse.com/mc-mods/minecraft/247505-natural-armors) 
