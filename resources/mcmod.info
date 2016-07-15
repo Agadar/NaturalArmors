@@ -1,0 +1,18 @@
+[
+{
+  
+"modid": "naturalarmors",
+  
+"name": "NaturalArmors",
+  
+"description": "This mod introduces several new armor sets, crafted from woods and fruits.",
+  
+"version": "${version}",
+  
+"mcversion": "${mcversion}",
+  
+"authorList": ["Agadar"]
+, 
+"url":""
+}
+]

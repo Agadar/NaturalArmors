@@ -1,0 +1,6 @@
+{
+    "parent":"naturalarmors:item/standard_item",
+    "textures": {
+        "layer0":"naturalarmors:items/jungle_chestplate"
+    }
+}
